@@ -1,6 +1,4 @@
-He revisado tu repositorio en Quantum_Ident-idfix. Aquí tienes algunas sugerencias para mejorar el README:
 
-README Mejorado
 
 # Quantum_Ident-idfix
 
