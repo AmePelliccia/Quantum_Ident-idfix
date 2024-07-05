@@ -1,4 +1,14 @@
+EPIC - DM repository
 
+Índice aglutinador de todos los mayores valores europeos en industria y tecnología emergente en un mercado financiero integrado
+
+Solución: un hub europeo para el mercado financiero y la creación de índices clásicos de empresas multinacionales y un índice para los mercados emergentes
+
+Lugar :Madrid 6 de julio 2024
+Amedeo Pelliccia
+Features.eu.europa
+
+from <! Quantum Circular Foundation 
 
 # Quantum_Ident-idfix
 
